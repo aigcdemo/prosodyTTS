@@ -8,3 +8,5 @@ establishes a deterministic instruction-to-markers-to-acoustics
 pathway: high-level user descriptions are first translated into finegrained markers, which then serve as intermediate, interpretable
 control signals to guide the synthesis of expressive and temporally accurate speech, without modifying the core architecture or
 compromising the naturalness of the base TTS model.
+
+** Metadata corresponding to Voxbox will be provided here **
